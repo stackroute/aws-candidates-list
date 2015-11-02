@@ -1,0 +1,15 @@
+.wrapper {
+  margin-left: 20px;
+}
+  h1 {
+    font-family: 'Open Sans',sans-serif;
+    font-weight:600;
+  }
+  ul li{
+    font-family: 'Open Sans',sans-serif;
+    font-weight: 400;
+  }
+
+  ul li a {
+    text-decoration: none;
+  }
